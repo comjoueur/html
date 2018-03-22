@@ -1,0 +1,57 @@
+.format_body{
+	background-image:url("azules.png");
+	height:800;
+}
+.format_head{
+	color:white;
+	font-size:50px;
+	background-image:url("back_ground_color_rojo.jpg");
+	text-align:center
+}
+.format_nav{
+	color:White;
+	background-color:#28282c;
+}
+.a_style {
+	text-decoration: none;
+	color:white;
+}
+.section_format{
+	color:white;
+	background-color:#28282c;
+}
+.aside_format{
+	color:white;
+	background-color:#28282c;
+}
+section {
+	float:left;
+	width: 260px;
+	margin: 0;
+	height:320;
+}
+aside {
+	margin-left: 280px;
+	height:320;
+	color:white;
+}
+#imagen_perfil{
+	margin-left:15px;
+	width:227px;
+	height:222px;
+}
+#titulo_head{
+	text-align:center;
+	font-size:30px;
+}
+#sangria_section{
+	margin-left:35px;
+}
+#sangria_column2{
+	margin-right:30px;
+}
+#image_map{
+	margin-left:300px;
+	width:400;
+	height:150;
+}
